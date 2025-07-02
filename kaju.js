@@ -6,4 +6,7 @@ function name1(){
     console.log("kaju khale mere bhai")
 }
 name1()
-
+const krish="kaju"
+function name2(){
+    console.log("kishmish khale mere bhai")
+}
